@@ -1,0 +1,16 @@
+@import url(../css/font.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    font-family: 'Raleway', sans-serif;;
+}
+
+body {
+	background-color: #000;
+	color: #fdfdfd;
+	text-align: center;
+}
